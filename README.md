@@ -1,4 +1,4 @@
-- 👋 Hi, I’m William Nason.
+- 👋 Hi, I’m William Nasoni.
 - 👀 I’m interested in developing fullstack applications and UI/UX Design.
 - 🌱 I’m currently learning mobile development with flutter.
 - 💞️ I’m looking to collaborate on any interesting project to enhance my skills.
